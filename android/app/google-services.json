@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "740293516041",
+    "project_id": "techintern-app-project",
+    "storage_bucket": "techintern-app-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740293516041:android:e7fc3067a021aa45ac91d8",
+        "android_client_info": {
+          "package_name": "com.example.techintern_app_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740293516041-jd1om3tmaosdlq18ci0o4d752lnma047.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.techintern_app_project",
+            "certificate_hash": "96e484ed803d1eaebdedda30b7f0af1065d3963a"
+          }
+        },
+        {
+          "client_id": "740293516041-ocud6so6cdp5qvvlhep1onkbpl9lh72s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBetK-XJ_lPPuBzIMGVXlBkPvaBSoKiAw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740293516041-ocud6so6cdp5qvvlhep1onkbpl9lh72s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
